@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/incubator-ignat-DZ/static/css/main.0ae7c2e7.css",
+    "main.js": "/incubator-ignat-DZ/static/js/main.cccc3423.js",
+    "index.html": "/incubator-ignat-DZ/index.html",
+    "main.0ae7c2e7.css.map": "/incubator-ignat-DZ/static/css/main.0ae7c2e7.css.map",
+    "main.cccc3423.js.map": "/incubator-ignat-DZ/static/js/main.cccc3423.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ae7c2e7.css",
+    "static/js/main.cccc3423.js"
+  ]
+}
