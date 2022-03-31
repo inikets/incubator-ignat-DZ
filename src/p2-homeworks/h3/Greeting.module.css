@@ -1,0 +1,11 @@
+.someClass {
+
+}
+
+.error {
+    border: 2px solid red;
+}
+
+.ok {
+    border: 2px solid chartreuse;
+}

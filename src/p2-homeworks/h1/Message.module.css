@@ -1,0 +1,23 @@
+.message {
+    border-radius: 10px;
+    background-color: #efef45;
+    width: 150px;
+    padding: 5px;
+    margin-left: 60px;
+
+}
+.messages {
+    margin-left: 10px;
+}
+.messages img {
+    margin-top: 17px;
+    width: 50px;
+    float: left;
+    border-radius: 50px;
+
+}
+
+.time {
+    padding-left: 110px;
+    font-size: 15px;
+}
