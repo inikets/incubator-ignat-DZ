@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/incubator-ignat-DZ/static/css/main.b3754e2b.css",
-    "main.js": "/incubator-ignat-DZ/static/js/main.5e0e8c15.js",
+    "main.css": "/incubator-ignat-DZ/static/css/main.82612b88.css",
+    "main.js": "/incubator-ignat-DZ/static/js/main.28d14310.js",
     "index.html": "/incubator-ignat-DZ/index.html",
-    "main.b3754e2b.css.map": "/incubator-ignat-DZ/static/css/main.b3754e2b.css.map",
-    "main.5e0e8c15.js.map": "/incubator-ignat-DZ/static/js/main.5e0e8c15.js.map"
+    "main.82612b88.css.map": "/incubator-ignat-DZ/static/css/main.82612b88.css.map",
+    "main.28d14310.js.map": "/incubator-ignat-DZ/static/js/main.28d14310.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3754e2b.css",
-    "static/js/main.5e0e8c15.js"
+    "static/css/main.82612b88.css",
+    "static/js/main.28d14310.js"
   ]
 }
